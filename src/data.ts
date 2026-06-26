@@ -45,7 +45,7 @@ export const CHAPTERS: Chapter[] = [
     number: 4,
     title: 'Isha',
     role: 'The Deep Thinker',
-    description: 'This girl has a literal lag in her system—she will think 100 times about a single thing before making a decision!',
+    description: 'Aditi mam's favourite',
     colorTheme: 'purple',
     accentColor: 'text-purple-400',
     borderColor: 'border-purple-500/30',
