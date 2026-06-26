@@ -132,7 +132,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'ad1',
     chapterId: 'aditi',
     author: 'Ayushi',
-    text: 'Our endless gossips and fun talks. Literally the only reason I survived those long waiting hours! Such a nice soul.',
+    text: 'Such a nice soul.',
     createdAt: '2025-05-14',
     color: 'pink',
     rotation: 3
@@ -141,7 +141,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'ad2',
     chapterId: 'aditi',
     author: 'Varun',
-    text: 'The best friend of Tahiba Mam and the ultimate mood-setter of our department! We will miss your smiles.',
+    text: 'The best friend of Tahiba Mam.',
     createdAt: '2025-05-25',
     color: 'purple',
     rotation: -1
@@ -151,7 +151,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'ay1',
     chapterId: 'ayushi',
     author: 'Rimzim',
-    text: 'The absolute sweetest person to talk to! You always listen with so much warmth while casually sipping lemon tea.',
+    text: 'The absolute sweetest person to talk to! You always listen with so much warmth.',
     createdAt: '2025-05-15',
     color: 'green',
     rotation: -2
@@ -160,7 +160,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'ay2',
     chapterId: 'ayushi',
     author: 'Mrigank',
-    text: 'Thank you for always listening to my endless talks with so much patience and giving the best advice! I still wonder how you get angry though!',
+    text: 'Thank you mam',
     createdAt: '2025-06-02',
     color: 'yellow',
     rotation: 2
@@ -170,7 +170,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'is1',
     chapterId: 'isha',
     author: 'Aditi',
-    text: 'The master of thinking 100 times before doing a single thing! That system lag is legendary and adorable.',
+    text: 'my intern.',
     createdAt: '2025-05-18',
     color: 'blue',
     rotation: -3
@@ -179,7 +179,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'is2',
     chapterId: 'isha',
     author: 'Harshit',
-    text: 'Your positive vibes are contagious, Isha! Even if you think 100 times, we love how warm and caring you always are.',
+    text: 'Ganja mat pina behen.',
     createdAt: '2025-06-05',
     color: 'orange',
     rotation: 1
@@ -189,7 +189,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'r1',
     chapterId: 'rimzim',
     author: 'Isha',
-    text: 'Dancing to "Shararat" with you made our days so much brighter! Your energetic dance sessions are a work of art.',
+    text: 'no comments.',
     createdAt: '2025-05-22',
     color: 'pink',
     rotation: 2
@@ -198,7 +198,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'r2',
     chapterId: 'rimzim',
     author: 'Varun',
-    text: 'Who is going to bring Minty Jamun and make everyone dance now? You are the true energy champion!',
+    text: 'bhai me thak gya hu ab comments nhi dal sakta sorry',
     createdAt: '2025-06-08',
     color: 'green',
     rotation: -1
@@ -217,7 +217,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'h2',
     chapterId: 'harshit',
     author: 'Ayushi',
-    text: 'Harshit, thank you for being the designated driver for our midnight food rides and compiling all these beautiful pictures!',
+    text: 'bye',
     createdAt: '2025-06-12',
     color: 'purple',
     rotation: 3
@@ -227,7 +227,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'm1',
     chapterId: 'mrigank',
     author: 'Varun',
-    text: 'Mrigank the ultimate feminism supporter who literally makes the roundest and best rotis for us!',
+    text: 'done',
     createdAt: '2025-05-30',
     color: 'yellow',
     rotation: 1
@@ -235,7 +235,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
   {
     id: 'm2',
     chapterId: 'mrigank',
-    author: 'Rimzim',
+    author: 'Harshit',
     text: 'An incredibly supportive guy and a wonderful friend. Thank you for always being there, Mrigank!',
     createdAt: '2025-06-15',
     color: 'blue',
@@ -254,8 +254,8 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
   {
     id: 't2',
     chapterId: 'together',
-    author: 'Department Staff',
-    text: 'Wishing this brilliant batch the absolute best for their future! You made the department alive with pure joy and laughter.',
+    author: 'Ak dubey',
+    text: 'ppt h saturday ko ajao.',
     createdAt: '2025-06-25',
     color: 'orange',
     rotation: 2
