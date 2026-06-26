@@ -82,9 +82,9 @@ export const CHAPTERS: Chapter[] = [
   {
     id: 'mrigank',
     number: 7,
-    title: 'Mrigank Garg',
+    title: 'Mrigank ',
     role: 'Feminism Supporter & Roti Expert',
-    description: 'An outstandingly good guy whose last name is Garg. He proudly supports feminism by making perfect rotis for everyone!',
+    description: 'He proudly supports feminism by making perfect rotis for everyone!',
     colorTheme: 'emerald',
     accentColor: 'text-emerald-400',
     borderColor: 'border-emerald-500/30',
@@ -227,7 +227,7 @@ export const DEFAULT_MEMORIES: MemoryNote[] = [
     id: 'm1',
     chapterId: 'mrigank',
     author: 'Varun',
-    text: 'Mrigank Garg, the ultimate feminism supporter who literally makes the roundest and best rotis for us!',
+    text: 'Mrigank the ultimate feminism supporter who literally makes the roundest and best rotis for us!',
     createdAt: '2025-05-30',
     color: 'yellow',
     rotation: 1
