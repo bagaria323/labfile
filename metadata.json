@@ -1,0 +1,6 @@
+{
+  "name": "Lab Memories",
+  "description": "An interactive digital memory book and gallery for Ceramic Engineering Lab interns at IIT (BHU) Varanasi (2024-2025).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
